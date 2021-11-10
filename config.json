@@ -1,11 +1,11 @@
 {
     "client": {
-        "token": "yourtoken"
+        "token": "ODU4NDAxMjU5OTY5ODM5MTM1.YNdmeA.2ktFO4szjhiPQ4pF7QI_RlvdXE0"
     },
     "mysql": {
         "host": "localhost",
-        "user": "root",
-        "password": "",
-        "database": "test_database"
+        "user": "puemmth",
+        "password": "xT54rNDN",
+        "database": "ku-cs"
     }
 }
