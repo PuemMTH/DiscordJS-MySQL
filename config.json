@@ -5,7 +5,7 @@
     "mysql": {
         "host": "localhost",
         "user": "puemmth",
-        "password": "xT54rNDN",
+        "password": "",
         "database": "ku-cs"
     }
 }
